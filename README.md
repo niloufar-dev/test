@@ -10,3 +10,22 @@ click [here](https://niloufar-dev.github.io/test/src/index.html) to see live dem
 
 ----
 ![demo](./A8-red.png)
+
+---
+```javascript
+function hi(){
+    console.log('hello ')
+}
+```
+----
+```html
+<h1>
+    world
+    </h1>
+```
+---
+
+`nano`
+---
+
+>this is test project.
